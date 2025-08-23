@@ -17,7 +17,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md sticky top-0 z-50 w-full">
       <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 flex justify-between items-center h-16">
         <Link to="/" className="text-2xl font-bold text-blue-600">
-          InsureAI
+        PolicyPal
         </Link>
 
         {/* Desktop navigation links */}
